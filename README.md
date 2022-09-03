@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @maybeajay
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning Kotlin, Android
+- 👀 I’m interested in Web Development
+`     i know HTML, CSS, JAVA and JavaScript
+- 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on personal projects
 - 📫 heyajayramola@gmai.com | contact me here
 
