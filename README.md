@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maybeajay
 - 👀 I’m interested in Web Development
-- 💻 i know HTML, CSS, JAVA and JavaScript
-- 🌱 I’m currently learning React Js
+- 💻 i know HTML5, CSS3, Tailwind CSS, React Js and React Native
+- 🌱 I’m currently learning Typescript and Node js
 - 💞️ I’m looking to collaborate on personal projects
 - 📫 heyajayramola@gmai.com | contact me here
 
