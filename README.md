@@ -5,8 +5,8 @@
 - 💞️ I’m looking to collaborate on personal projects
 - 📫 heyajayramola@gmai.com | contact me here
 
-- reddit account -
-- https://www.reddit.com/user/Maybeajey/
+_ Portfolio
+https://ajaysinghportfolio.netlify.app/
 
 <!---
 maybeajay/maybeajay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
